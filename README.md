@@ -18,7 +18,7 @@
 
 <a href="https://github.com/vatikajuniar/TicketManagement#How-To-Use"><h1>How to use </h1></a>
   
-  1. Download XAMPP
+  1. Download Database
   2. Import database to XAMPP
   3. Try  to reinstall package using command Update-Package -reinstall
   4. Done
