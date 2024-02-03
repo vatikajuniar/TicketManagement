@@ -1,4 +1,4 @@
-<a href="https://github.com/vatikajuniar/TicketManagement"><h1>Bisokop Ticket Management</h1></a>
+<a href="https://github.com/vatikajuniar/TicketManagement"><h1>Bioskop Ticket Management</h1></a>
 
 <p>This app build use: </p>
 <ul>
